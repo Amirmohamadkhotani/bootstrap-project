@@ -9,4 +9,11 @@ body::before {
     .news-input{
         width: 50%;
     }
+    
+}
+@media(max-width: 768px){
+    .map{
+        width: 0;
+        height: 0;
+    } 
 }
